@@ -1,0 +1,29 @@
+.containe{   
+    height: 600px;
+    margin: 50px 350px;
+     box-shadow: 5px 5px 70px rgb(0, 0, 0);
+ }
+ 
+ .containe ul li { 
+     border: 1px solid gray;
+     cursor: pointer;
+ }
+ 
+ .btn:hover{
+     background-color: rgb(120, 116, 116);
+     color: #000;
+ }
+ 
+ .win{
+     background-color: #27e30ad5;
+     border-color: #00bd36;
+     box-sizing: 2px;
+     color: white;
+ }
+ 
+ .fail{
+     background: #fd0e0ed1;
+     border-color:rgba(235, 61, 61, 0.909) ;
+     color: white;
+ 
+ }
